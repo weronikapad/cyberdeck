@@ -1,4 +1,4 @@
-#Raspberry pi pico cyberek
+# Raspberry pi pico cyberek
 
 ## Function:
 It's a retro inspired minicomputer, and hopefully a debugger, built on a raspberry pi pico, rn the files only present a mother board but i will be adding a keybord, screen, sd card, and i LiPo battery
